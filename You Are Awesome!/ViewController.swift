@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("👍 viewDidLoad has run")
         
-        messageLabel.text = "Well done!"
+        messageLabel.text = "Well done"
     }
 
     @IBAction func messageButtonPressed(_ sender: UIButton) {
